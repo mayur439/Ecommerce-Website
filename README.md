@@ -1,5 +1,5 @@
 # ECOMMERCE
-![developer](Mayur Suradkar)
+Developer: Mayur Suradkar
 ---
 ## screenshots
 ### Admin Dashboard
